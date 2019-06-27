@@ -1,0 +1,15 @@
+﻿<Properties RefactoringSettings.EnableRefactorings="True" StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DeckManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameManager_KC.cs" Line="79" Column="75" />
+      <File FileName="Assets/Scripts/CardAnimator.cs" Line="43" Column="35" />
+      <File FileName="Assets/Scripts/TouchManager.cs" Line="134" Column="1" />
+      <File FileName="Assets/Scripts/DeckManager.cs" Line="177" Column="48" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
